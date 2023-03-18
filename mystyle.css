@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+.menu {
+    font-family: sans-serif;
+    width: 20%;
+    height: 100%;
+    float: left;
+       
+}
+a {
+    
+    transition: background-color .5s;
+  }
+a:hover {
+    background-color: white;
+}
+.cua1 {
+    font-family: sans-serif;
+    float: right;
+    width: 80%;
+    height: 100%;
+    background-color: red;
+}
+.cua2 {
+    font-family: sans-serif;
+    float: right;
+    width: 80%;
+    height: 100%;
+    background-color: green;
+}
+.cua3 {
+    font-family: sans-serif;
+    float: right;
+    width: 80%;
+    height: 100%;
+    background-color: yellow;
+}
+.cua4 {
+    font-family: sans-serif;
+    float: right;
+    width: 80%;
+    height: 100%;
+    background-color: maroon;
+}
+
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+
